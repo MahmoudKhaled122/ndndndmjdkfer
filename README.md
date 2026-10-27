@@ -1,1 +1,1 @@
-[java note](images\CurrentDateTimeIcon.png)
+![Current Date Time](images/CurrentDateTimeIcon.png)
